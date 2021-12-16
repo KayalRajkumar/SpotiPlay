@@ -4,12 +4,11 @@ SpotiPlay is an application using the Spotify API that allows users to select an
 
 **To run:**
 <ul>
-<li>Install spotipy</li>
+Install spotipy
 <li>pip3 install spotipy<li>
 
 Install numpy
-<li>pip3 install numpy<li>
-</ul>
+<li>pip3 install numpy<li> </ul>
 
 **Run these lines of code:**
 
