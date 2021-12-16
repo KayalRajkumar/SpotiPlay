@@ -2,7 +2,7 @@
 
 SpotiPlay is an application using the Spotify API that allows users to select an activity they would like to do and receive a playlist they can listen to while doing said activity. 
 
-To run:
+**To run:**
 
 Install spotipy
 pip3 install spotipy
@@ -11,7 +11,7 @@ Install numpy
 pip3 install numpy
 
 
-Run these lines of code:
+**Run these lines of code:**
 
 export SPOTIPY_CLIENT_ID=5e431623dd72432c88695cf389ec0aa7
 
@@ -23,4 +23,4 @@ python3 spotiplay.py
 
 
 
-Thank you!
+**Hope you enjoy!**
