@@ -19,4 +19,4 @@ Install numpy
 
 
 
-**Hope you enjoy!**
+Hope you enjoy!
