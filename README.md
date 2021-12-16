@@ -10,7 +10,7 @@ Install spotipy
 Install numpy
 ```pip3 install numpy```
 
-**Run the lines of code provided in the project submission**
+**Run the 3 lines of code provided in the project submission**
 
 
 **Run the file:**
